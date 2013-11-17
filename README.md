@@ -1,5 +1,12 @@
-Gomock-Ginkgo
-=============
+# DON'T USE THIS
+
+There is now a Gomock test reporter included in the thirdparty subpackage of Ginkgo!
+
+See how here: http://onsi.github.io/ginkgo/#integrating_with_gomock
+
+## Gomock-Ginkgo
+
+_For historic purposes only_
 
 Gomock needs a reference to `testing.T`
 
