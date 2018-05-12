@@ -2,7 +2,7 @@
 
 There is now a Gomock test reporter included in the thirdparty subpackage of Ginkgo!
 
-See how here: http://onsi.github.io/ginkgo/#integrating_with_gomock
+See how here: http://onsi.github.io/ginkgo/#integrating-with-gomock
 
 ## Gomock-Ginkgo
 
